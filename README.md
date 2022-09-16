@@ -36,6 +36,8 @@ https://grs.muc.edu.cn/yjsyzsw/info/1062/3028.htm
 https://yz.tongji.edu.cn/info/1018/2858.htm  
 # 华东师范大学：
 https://yjszs.ecnu.edu.cn/system/sszszyml_list.asp  
+# 中国科学技术大学：
+https://yz1.ustc.edu.cn/sszs_2023/  
 
 
 
