@@ -22,6 +22,7 @@ https://yz.scu.edu.cn/sszyml/index
 http://yz.cqu.edu.cn/sszyml/2023/1.html  
 # 中国海洋大学：
 http://yz.ouc.edu.cn/2022/0913/c5926a377162/page.htm  
-
+# 中国农业大学：
+http://yz.cau.edu.cn/art/2022/9/15/art_41740_880470.html  
 
 
