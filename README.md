@@ -32,5 +32,8 @@ https://www.yz.sdu.edu.cn/info/1017/5254.htm
 http://yz.neu.edu.cn/2022/0916/c5933a218579/page.htm  
 # 中央民族大学：
 https://grs.muc.edu.cn/yjsyzsw/info/1062/3028.htm  
+# 同济大学：
+https://yz.tongji.edu.cn/info/1018/2858.htm  
+
 
 
