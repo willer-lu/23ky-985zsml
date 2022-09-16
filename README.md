@@ -28,5 +28,6 @@ http://yz.cau.edu.cn/art/2022/9/15/art_41740_880470.html
 https://graduate.sysu.edu.cn/zsw/article/392  
 # 山东大学：
 https://www.yz.sdu.edu.cn/info/1017/5254.htm  
-
+# 东北大学：
+http://yz.neu.edu.cn/2022/0916/c5933a218579/page.htm  
 
