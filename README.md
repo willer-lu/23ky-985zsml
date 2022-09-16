@@ -3,4 +3,5 @@
 # 北京师范大学：https://yz.bnu.edu.cn/content/zyml/2023/ssyx.html  
 # 南京大学：https://yzb.nju.edu.cn/f5/04/c47863a587012/page.htm  
 # 浙江大学：http://grs.zju.edu.cn/ssszs/studentZsml.htm  
+# 大连理工大学：http://gs.dlut.edu.cn/yjszs/sss/zs1/zszy_zyxwx_.htm
 
