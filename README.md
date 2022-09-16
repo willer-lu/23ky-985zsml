@@ -5,4 +5,5 @@
 # 浙江大学：http://grs.zju.edu.cn/ssszs/studentZsml.htm  
 # 大连理工大学：http://gs.dlut.edu.cn/yjszs/sss/zs1/zszy_zyxwx_.htm  
 # 哈尔滨工业大学：http://yzb.hit.edu.cn/2022/0801/c8823a279545/page.htm  
+# 西北农林科技大学：https://yz.nwafu.edu.cn/tzgg/483c3b55cd9443b989597ac16c69db5c.htm  
 
