@@ -26,5 +26,7 @@ http://yz.ouc.edu.cn/2022/0913/c5926a377162/page.htm
 http://yz.cau.edu.cn/art/2022/9/15/art_41740_880470.html  
 # 中山大学：
 https://graduate.sysu.edu.cn/zsw/article/392  
+# 山东大学：
+https://www.yz.sdu.edu.cn/info/1017/5254.htm  
 
 
