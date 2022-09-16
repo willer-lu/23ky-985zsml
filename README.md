@@ -18,6 +18,8 @@ http://grs.zju.edu.cn/ssszs/studentZsml.htm
 http://gs.dlut.edu.cn/yjszs/sss/zs1/zszy_zyxwx_.htm  
 # 四川大学：
 https://yz.scu.edu.cn/sszyml/index  
+# 重庆大学：
+http://yz.cqu.edu.cn/sszyml/2023/1.html  
 
 
 
