@@ -1,6 +1,6 @@
 # 23考研985高校招生目录汇总（顺序仅与发布时间有关） 
 # 国防科技大学：
-http://yjszs.nudt.edu.cn/index/index.view 
+http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=12445  
 # 哈尔滨工业大学：
 http://yzb.hit.edu.cn/2022/0801/c8823a279545/page.htm  
 # 西北农林科技大学：
