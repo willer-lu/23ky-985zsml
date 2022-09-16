@@ -34,6 +34,8 @@ http://yz.neu.edu.cn/2022/0916/c5933a218579/page.htm
 https://grs.muc.edu.cn/yjsyzsw/info/1062/3028.htm  
 # 同济大学：
 https://yz.tongji.edu.cn/info/1018/2858.htm  
+# 华东师范大学：
+https://yjszs.ecnu.edu.cn/system/sszszyml_list.asp  
 
 
 
