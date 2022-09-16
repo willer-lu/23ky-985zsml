@@ -30,4 +30,7 @@ https://graduate.sysu.edu.cn/zsw/article/392
 https://www.yz.sdu.edu.cn/info/1017/5254.htm  
 # 东北大学：
 http://yz.neu.edu.cn/2022/0916/c5933a218579/page.htm  
+# 中央民族大学：
+https://grs.muc.edu.cn/yjsyzsw/info/1062/3028.htm  
+
 
