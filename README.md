@@ -1,4 +1,4 @@
-# 23考研985高校招生目录汇总（顺序仅与发布时间有关） 
+# 23考研985高校招生目录汇总（排名不分先后） 
 # 国防科技大学：
 http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=12445  
 # 哈尔滨工业大学：
@@ -20,6 +20,8 @@ http://gs.dlut.edu.cn/yjszs/sss/zs1/zszy_zyxwx_.htm
 https://yz.scu.edu.cn/sszyml/index  
 # 重庆大学：
 http://yz.cqu.edu.cn/sszyml/2023/1.html  
+# 中国海洋大学：
+http://yz.ouc.edu.cn/2022/0913/c5926a377162/page.htm  
 
 
 
