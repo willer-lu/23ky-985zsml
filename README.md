@@ -16,6 +16,8 @@ https://yzb.nju.edu.cn/f5/04/c47863a587012/page.htm
 http://grs.zju.edu.cn/ssszs/studentZsml.htm  
 # 大连理工大学：
 http://gs.dlut.edu.cn/yjszs/sss/zs1/zszy_zyxwx_.htm  
+# 四川大学：
+https://yz.scu.edu.cn/sszyml/index  
 
 
 
