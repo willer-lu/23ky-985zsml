@@ -1,4 +1,4 @@
-# 23考研985高校招生目录汇总（排名不分先后） 
+# 23考研985高校招生目录汇总（排名不分先后） 随时更新……  
 # 国防科技大学：
 http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=12445  
 # 哈尔滨工业大学：
