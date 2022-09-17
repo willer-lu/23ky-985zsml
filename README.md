@@ -38,6 +38,8 @@ https://yz.tongji.edu.cn/info/1018/2858.htm
 https://yjszs.ecnu.edu.cn/system/sszszyml_list.asp  
 # 中国科学技术大学：
 https://yz1.ustc.edu.cn/sszs_2023/  
+# 西北工业大学：
+https://yzb.nwpu.edu.cn/info/1177/8189.htm  
 
 
 
