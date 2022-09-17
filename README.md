@@ -40,6 +40,8 @@ https://yjszs.ecnu.edu.cn/system/sszszyml_list.asp
 https://yz1.ustc.edu.cn/sszs_2023/  
 # 西北工业大学：
 https://yzb.nwpu.edu.cn/info/1177/8189.htm  
+# 吉林大学：
+http://zsb.jlu.edu.cn/info/2811.html  
 
 
 
