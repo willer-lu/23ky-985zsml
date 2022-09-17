@@ -42,6 +42,8 @@ https://yz1.ustc.edu.cn/sszs_2023/
 https://yzb.nwpu.edu.cn/info/1177/8189.htm  
 # 吉林大学：
 http://zsb.jlu.edu.cn/info/2811.html  
+# 上海交通大学：
+https://yzb.sjtu.edu.cn/info/1022/2464.htm  
 
 
 
