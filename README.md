@@ -44,6 +44,8 @@ https://yzb.nwpu.edu.cn/info/1177/8189.htm
 http://zsb.jlu.edu.cn/info/2811.html  
 # 上海交通大学：
 https://yzb.sjtu.edu.cn/info/1022/2464.htm  
+# 华南理工大学：
+https://yz.scut.edu.cn/2022/0917/c30111a481090/page.htm  
 
 
 
