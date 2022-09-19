@@ -46,6 +46,10 @@ http://zsb.jlu.edu.cn/info/2811.html
 https://yzb.sjtu.edu.cn/info/1022/2464.htm  
 # 华南理工大学：
 https://yz.scut.edu.cn/2022/0917/c30111a481090/page.htm  
+# 北京大学：
+https://admission.pku.edu.cn/zsxx/sszs/zyml/index.htm?CSRFT=BQJM-B4KN-J4N5-VE3B-KGB3-6LMO-LUBQ-9KVM  
+# 北京理工大学
+http://grd.bit.edu.cn/docs//2022-09/bfc7f6e828b248ad8d90db87b12957dc.xlsx  
 
 
 
