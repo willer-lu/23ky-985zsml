@@ -50,6 +50,14 @@ https://yz.scut.edu.cn/2022/0917/c30111a481090/page.htm
 https://admission.pku.edu.cn/zsxx/sszs/zyml/index.htm?CSRFT=BQJM-B4KN-J4N5-VE3B-KGB3-6LMO-LUBQ-9KVM  
 # 北京理工大学
 http://grd.bit.edu.cn/docs//2022-09/bfc7f6e828b248ad8d90db87b12957dc.xlsx  
+# 北京航空航天大学：
+http://yzb.buaa.edu.cn/xlss/zymlcx.htm  
+# 天津大学：
+http://yzb.tju.edu.cn/xwzx/tkss_xw/202209/t20220919_322610.htm   
+# 南开大学：
+https://yzb.nankai.edu.cn/2022/0919/c2585a477338/page.htm  
+# 西安交通大学：
+http://yz.xjtu.edu.cn/info/1085/3697.htm  
 
 
 
