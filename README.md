@@ -59,7 +59,13 @@ https://yzb.nankai.edu.cn/2022/0919/c2585a477338/page.htm
 # 西安交通大学：
 http://yz.xjtu.edu.cn/info/1085/3697.htm  
 # 东南大学：
-http://gsas.seu.edu.cn/ssmlcx2023/pages/index.html
+http://gsas.seu.edu.cn/ssmlcx2023/pages/index.html  
+# 清华大学：
+https://yzbm.tsinghua.edu.cn/publish/s02/s0203/detail/6ca98c27-56c4-478c-9e23-58a7573d21bc  
+# 厦门大学：
+https://zs.xmu.edu.cn/info/1056/5154.htm  
+# 电子科技大学：
+https://yz.uestc.edu.cn/info/1006/4177.htm  
 
 
 
