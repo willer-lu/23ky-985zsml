@@ -58,6 +58,8 @@ http://yzb.tju.edu.cn/xwzx/tkss_xw/202209/t20220919_322610.htm
 https://yzb.nankai.edu.cn/2022/0919/c2585a477338/page.htm  
 # 西安交通大学：
 http://yz.xjtu.edu.cn/info/1085/3697.htm  
+# 东南大学：
+http://gsas.seu.edu.cn/ssmlcx2023/pages/index.html
 
 
 
