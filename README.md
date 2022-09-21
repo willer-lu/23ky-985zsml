@@ -49,7 +49,7 @@ https://yz.scut.edu.cn/2022/0917/c30111a481090/page.htm
 # 北京大学：
 https://admission.pku.edu.cn/zsxx/sszs/zyml/index.htm?CSRFT=BQJM-B4KN-J4N5-VE3B-KGB3-6LMO-LUBQ-9KVM  
 # 北京理工大学
-http://grd.bit.edu.cn/docs//2022-09/bfc7f6e828b248ad8d90db87b12957dc.xlsx  
+http://grd.bit.edu.cn/zsgz/ssyjs/bslc_ss/0c91c6c66e1b431f8144d0c84ed2143d.htm  
 # 北京航空航天大学：
 http://yzb.buaa.edu.cn/xlss/zymlcx.htm  
 # 天津大学：
