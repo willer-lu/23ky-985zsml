@@ -66,6 +66,9 @@ https://yzbm.tsinghua.edu.cn/publish/s02/s0203/detail/6ca98c27-56c4-478c-9e23-58
 https://zs.xmu.edu.cn/info/1056/5154.htm  
 # 电子科技大学：
 https://yz.uestc.edu.cn/info/1006/4177.htm  
+# 中国人民大学：
+https://pgs.ruc.edu.cn/info/1041/3017.htm  
+
 
 
 
