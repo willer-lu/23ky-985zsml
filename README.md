@@ -68,6 +68,8 @@ https://zs.xmu.edu.cn/info/1056/5154.htm
 https://yz.uestc.edu.cn/info/1006/4177.htm  
 # 中国人民大学：
 https://pgs.ruc.edu.cn/info/1041/3017.htm  
+# 兰州大学：
+https://yz.lzu.edu.cn/shuoshishengzhaosheng/shuoshijianzhang/2022/0922/204972.html
 
 
 
