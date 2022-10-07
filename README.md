@@ -69,7 +69,15 @@ https://yz.uestc.edu.cn/info/1006/4177.htm
 # 中国人民大学：
 https://pgs.ruc.edu.cn/info/1041/3017.htm  
 # 兰州大学：
-https://yz.lzu.edu.cn/shuoshishengzhaosheng/shuoshijianzhang/2022/0922/204972.html
+https://yz.lzu.edu.cn/shuoshishengzhaosheng/shuoshijianzhang/2022/0922/204972.html    
+# 中南大学：
+https://gra.csu.edu.cn/info/1012/38318.htm  
+# 湖南大学：
+http://gra.hnu.edu.cn/info/1075/8641.htm  
+# 武汉大学：
+https://gs.whu.edu.cn/zsxx/sszs.htm  
+# 华中科技大学：
+http://gszs.hust.edu.cn/info/1106/3520.htm  
 
 
 
